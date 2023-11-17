@@ -12,7 +12,7 @@ namespace HashMap
 
             Hashtable ht = new Hashtable();
             ht.Add("RollNo", 1);
-            ht.Add("Name", "Bala");
+            ht.Add("Name", "Gokila");
             ht.Add("Age", 26);
 
             if (ht.ContainsKey("Name"))
